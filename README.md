@@ -10,7 +10,7 @@
 - 🏆 **Accomplished Innovator:** Consistently delivering high-quality solutions in **React**, **Firebase**, **TypeScript**, and **Flutter**.
 - 🌟 **Team Leader:** Known for effective collaboration and mentoring junior developers.
 - 💼 **Problem Solver:** Passionate about creating efficient and impactful digital solutions.
-- 📬 **Let's Connect:** Open to new challenges and collaborations! Reach out at [prosanabani@gmail.com](mailto:prosanabani@gmail.com).
+- 📬 **Let's Connect:** Open to new challenges and collaborations! Reach out at [mhocsr@gmail.com](mailto:mhocsr@gmail.com).
 
 ---
 
@@ -54,9 +54,9 @@
 
 <div align="left">
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prosanabani&show_icons=true&hide_border=true&theme=radical)
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammeYoussef&show_icons=true&hide_border=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prosanabani&layout=compact&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammeYoussef&layout=compact&hide_border=true&theme=radical)
 
 </div>
 
@@ -66,8 +66,8 @@
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ali-ibrahim-95612b218/)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&labelColor=red)](mailto:prosanabani@gmail.com)
+  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&labelColor=red)](mailto:mhocsr@gmail.com)
 
 </div>
 
