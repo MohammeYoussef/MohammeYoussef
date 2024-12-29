@@ -54,6 +54,11 @@
 ## 📊 GitHub Stats
 
 <div align="left">
+  <img
+    src="https://media.tenor.com/YHUOSFkcNCcAAAAM/system-engineer-geek.gif"
+    alt=""
+    width="400"
+  />
 
 ![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammeYoussef&show_icons=true&hide_border=true&theme=radical)
 
