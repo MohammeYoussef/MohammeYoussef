@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 🎓 **Experienced Developer:** Senior IT professional specializing in modern web development and scalable applications.
-- 🏆 **Accomplished Innovator:** Consistently delivering high-quality solutions in **React**, **Firebase**, **TypeScript**, and **Flutter**.
+- 🏆 **Accomplished Innovator:** Consistently delivering high-quality solutions in **React**, **Firebase**, **TypeScript**, **Angular** ,and **Flutter**.
 - 🌟 **Team Leader:** Known for effective collaboration and mentoring junior developers.
 - 💼 **Problem Solver:** Passionate about creating efficient and impactful digital solutions.
 - 📬 **Let's Connect:** Open to new challenges and collaborations! Reach out at [mhocsr@gmail.com](mailto:mhocsr@gmail.com).
@@ -30,6 +30,7 @@
 ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-000?&logo=reactquery&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-000?&logo=ReactHookForm)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 
 ### **Design & Styling**
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
@@ -54,7 +55,7 @@
 
 <div align="left">
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammeYoussef&show_icons=true&hide_border=true&theme=radical)
+![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammeYoussef&show_icons=true&hide_border=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammeYoussef&layout=compact&hide_border=true&theme=radical)
 
