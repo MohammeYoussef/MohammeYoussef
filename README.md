@@ -1,77 +1,100 @@
-# 👋 Hello, I'm Mohammed Youssef!
+# 👋 Hello, I'm Mohammed Al-Arifi
 
-![Profile Views](https://komarev.com/ghpvc/?username=MohammeYoussef&color=blue&style=for-the-badge)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohammeYoussef&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Experienced Developer:** Senior IT professional specializing in modern web development and scalable applications.
-- 🏆 **Accomplished Innovator:** Consistently delivering high-quality solutions in **React**, **Firebase**, **TypeScript**, **Angular** ,and **Flutter**.
-- 🌟 **Team Leader:** Known for effective collaboration and mentoring junior developers.
-- 💼 **Problem Solver:** Passionate about creating efficient and impactful digital solutions.
-- 📬 **Let's Connect:** Open to new challenges and collaborations! Reach out at [mhocsr@gmail.com](mailto:mhocsr@gmail.com).
+A highly skilled and passionate **Software Engineer** specializing in architecting and developing robust, scalable, and high-performance web applications. With a solid academic foundation and hands-on production experience, I excel at transforming complex requirements into intuitive, fluid user interfaces and efficient backend systems.
+
+- 🎓 **Education:** Bachelor of Information Technology from **Ar-Rasheed Smart University** (2024 - 2025).
+- 💼 **Professional Experience:** Proven track record delivering high-quality products at **Logix** and **evoX-Ltd**.
+- 🛠️ **Ecosystem Mastery:** Deep expertise in **React**, **Next.js**, and **Go (Golang)**, focusing on state management, clean architecture, and performance optimization.
+- 🤖 **AI-Driven Workflow:** Advanced practitioner in local AI agent tools, maximizing engineering velocity.
+
+---
+
+## ⚡ Current Focus & Cutting-Edge Tech
+
+I constantly push the boundaries of modern web development. Currently, my workflow and stack include:
+- 🏗️ **TanStack Start:** Building full-stack React applications with type-safe routing, SSR, and streaming capabilities.
+- 💻 **Claude Code CLI & Cursor:** Leveraging next-generation command-line AI tools and intelligent agents to optimize code generation and system debugging.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### **Programming Languages**
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C#](https://img.shields.io/badge/-C%23-000?style=flat&logo=C%20Sharp)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+### 🌐 Frontend & Core Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Zustand](https://img.shields.io/badge/-Zustand-000?&logo=Zustand)
-![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-000?&logo=reactquery&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-000?&logo=ReactHookForm)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+### ⚙️ State Management & Data Fetching
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-### **Design & Styling**
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=TailwindCSS)
-![UnoCSS](https://img.shields.io/badge/-UnoCSS-000?&logo=unocss&logoColor=white)
-![PrimeReact](https://img.shields.io/badge/-PrimeReact-000?&logo=PrimeReact)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+### 🎛️ Backend & Database Management
+![Go](https://img.shields.io/badge/Go_/_Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL / NoSQL](https://img.shields.io/badge/SQL_&_NoSQL-Database-4479A1?style=for-the-badge&logo=generic)
 
-### **Development Tools**
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-000?&logo=microsoftazure&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=Vite)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode&logoColor=007ACC)
+### 🎨 UI Components & Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![PrimeReact](https://img.shields.io/badge/PrimeReact-06B6D4?style=for-the-badge&logo=primereact&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framermotion&logoColor=white)
 
+### 🛠️ DevOps, AI Editors & Tools
+![Claude Code CLI](https://img.shields.io/badge/Claude_Code_CLI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-555555?style=for-the-badge&logo=visualstudiocode&logoColor=cyan)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
+---
 
-<div align="left">
+## 📁 Highlighted Projects
 
+### 📝 **EMS - Examination and Monitoring System (Proctorix)**
+*   **Description:** A comprehensive end-to-end online examination and advanced monitoring system specifically engineered to meet the network environments and academic standards of the Yemeni educational community.
+*   **Tech Stack:** React, Next.js, Performance Optimization Tools.
+*   **Repository:** [GitHub Repo: EMS](https://github.com/MohammeYoussef/EMS)
 
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammeYoussef&show_icons=true&hide_border=true&theme=radical)
+### 🌐 **TarfeehMalaysia Website**
+*   **Description:** A production-ready, highly interactive commercial platform serving specialized travel and entertainment services.
+*   **Live Application:** [tarfeehmalaysia.com](https://tarfeehmalaysia.com/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammeYoussef&layout=compact&hide_border=true&theme=radical)
+> 🔍 *Discover more production environments and open-source applications directly in my repository feed.*
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammeYoussef&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c9d1d9" alt="Mohammed's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammeYoussef&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect & Collaborate
 
-<div align="left">
+If you are looking for a reliable software engineer to architect a high-performance system, optimize an existing React/Next.js infrastructure, or collaborate on innovative web applications, let's build together.
 
-  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&labelColor=red)](mailto:mhocsr@gmail.com)
-
-</div>
+- 📧 **Email:** [mohammedyoussef.alarifi@gmail.com](mailto:mohammedyoussef.alarifi@gmail.com)
+- 💼 **Portfolio:** [mohammed-portfoliotopaz.vercel.app](https://mohammed-portfoliotopaz.vercel.app/)
+- 📱 **Telegram / Phone:** +967 774 088 668
 
 ---
 
