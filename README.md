@@ -68,8 +68,7 @@ I constantly push the boundaries of modern web development. Currently, my workfl
 
 ### 📝 **EMS - Examination and Monitoring System (Proctorix)**
 *   **Description:** A comprehensive end-to-end online examination and advanced monitoring system specifically engineered to meet the network environments and academic standards of the Yemeni educational community.
-*   **Tech Stack:** React, Next.js, Performance Optimization Tools.
-*   **Repository:** [GitHub Repo: EMS](https://github.com/MohammeYoussef/EMS)
+*   **Tech Stack:** React, Go(Golang)
 
 ### 🌐 **TarfeehMalaysia Website**
 *   **Description:** A production-ready, highly interactive commercial platform serving specialized travel and entertainment services.
